@@ -2,7 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+## Installation
+
+First, install all dependencies:
+
+```bash
+$ pnpm install
+```
+
+Next, run the development server:
 
 ```bash
 npm run dev
@@ -14,7 +22,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000/i/todos](http://localhost:3000/i/todos) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
